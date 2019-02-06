@@ -1,5 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
 
+/* importing theme for material, not custom for now */
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
+
 /* removing margin from body */
 body {
     margin: 0;
